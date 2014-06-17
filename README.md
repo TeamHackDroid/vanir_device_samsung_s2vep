@@ -1,7 +1,7 @@
 Samsung Galaxy S II Plus
 ============================
 
-Device Tree for Samsung Galaxy S II Plus
+Device Tree for Samsung Galaxy S II Plus  FOR VANIRAOSP DERIVED FROM COOLDEVELOPMENTS CM DEVICE TREEE
 
 Basic   | Spec Sheet
 -------:|:-------------------------
